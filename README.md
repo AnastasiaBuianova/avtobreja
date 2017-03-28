@@ -1,2 +1,2 @@
 # avtobreja
-Homeworks and projects for the course of natural language procesing  
+Homeworks and projects for the course of natural language processing  
